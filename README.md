@@ -1,2 +1,0 @@
-# wpchall
-forwordpress
